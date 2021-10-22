@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "gbvdatabase2021",
+    "password": "MakaziweM@23",
+    "database": "gbvdatabase2021",
+    "host": "den1.mysql3.gear.host",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": null,
+    "database": "database_test",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "b0dcb30b079cd5",
+    "password": "ed3ceb18",
+    "database": "heroku_f1fd8e0c2c21d25",
+    "host": "us-cdbr-east-03.cleardb.com",
+    "dialect": "mysql"
+  }
+}
